@@ -1,4 +1,4 @@
-from client import Client
+from tari_python import Client
 
 wallet_address = "localhost:18143"
 wallet = Client(wallet_address)

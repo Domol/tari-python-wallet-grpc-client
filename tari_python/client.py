@@ -1,6 +1,6 @@
 import grpc
-import wallet_pb2 as wallet
-import wallet_pb2_grpc as wallet_grpc
+import tari_python.wallet_pb2 as wallet
+import tari_python.wallet_pb2_grpc as wallet_grpc
 from google.protobuf.json_format import MessageToDict
 
 
