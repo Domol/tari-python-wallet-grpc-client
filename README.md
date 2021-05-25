@@ -11,7 +11,7 @@ You can then use Client class to make calls to Tari wallet RPC.
 
 ## Example Usage
 Here is a simple code that prints wallet balance:
-```{python}
+```python
 from tari_python import Client
 
 wallet_address = "localhost:18143"
